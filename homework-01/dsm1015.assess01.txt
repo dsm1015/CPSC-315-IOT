@@ -1,0 +1,23 @@
+CPSC 315 Homework 01 Grading
+
+Due Date: 11:AM AM on 1/29/2024
+
+Name: Douglas Maxwell     ______ / 22
+
+______ (2 pts) No syntax error
+
+______ (3 pts) Definition of length of LED lighting
+
+______ (6 pts) Analysis of the sequence and timing of processing as pseudocode in comments 
+
+______ (1 pt)  Comments
+
+______ (1 pt)  Initialization
+
+______ (9 pts) Sketch code to show SOS signals repeatedly
+
+
+Comments
+________________________________________________________
+
+
