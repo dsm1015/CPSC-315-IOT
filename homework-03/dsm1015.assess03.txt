@@ -1,0 +1,28 @@
+CPSC 315 Homework 03 Grading
+
+Due Date: 11:00 AM on 2/19/2024
+
+Name:  Douglas Maxwell      Grade:  / 34
+
+ Problem Solving and Critical Thinking
+
+______ (2 pts)  No syntax error
+
+______ (2 pts)  Initialization
+
+______ (8 pts)  Analysis of the sequence and timing of processing in pseudo code in block comments
+
+______ (13 pts) Traffic light pattern
+
+
+ Communication
+
+______ (7 pts) The schematic diagram of the prototype
+
+______ (2 pts)  Comments
+
+
+Comments
+________________________________________________________
+
+
