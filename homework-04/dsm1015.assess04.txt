@@ -1,0 +1,29 @@
+CPSC 315 Homework 04 Grading
+
+Due Date: 11:00 AM on 3/4/2024
+
+Name: Douglas Maxwell        Grade: / 20
+
+
+ Problem Solving and Critical Thinking
+
+_______ (2 pts) No syntax error
+
+_______ (2 pts) Initialization
+
+_______ (2 pts) Get analog input
+
+_______ (4 pts) The logic/algorithm to adjust brightness of LED based on analog input
+
+ 
+Communication
+
+_______ (8 pts) The schematic diagram of the circuit
+
+_______ (2 pts) Comments
+
+
+Comments
+________________________________________________________
+
+
