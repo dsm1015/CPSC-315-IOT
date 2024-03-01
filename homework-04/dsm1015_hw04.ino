@@ -11,7 +11,9 @@
 #define LED_PIN 3
 
 // Constant for the PWM step
-const float PWM_STEP = 255.0 / (1023 / 2); // 255 is the max value for PWM, (1023/2) is the max value for analogRead with the 10k resistor.
+// 255 is the max value for PWM, (1023/2) is the max value for analogRead with the 10k resistor. 
+// The volatage of the potentiometer is about 2.5V.
+const float PWM_STEP = 255.0 / (1023 / 2);
 
 void setup() {
     // put your setup code here, to run once:
