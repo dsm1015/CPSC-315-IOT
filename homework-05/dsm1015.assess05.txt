@@ -1,0 +1,31 @@
+CPSC 315 Homework 05 Grading
+
+Due Date: 11:00 AM on 3/20/2024
+
+Name: Douglas Maxwell       Grade:  / 32
+
+
+ Problem Solving and Critical Thinking
+
+______ (2 pts)  No syntax error
+
+______ (3 pts)  Initialization of digital pins
+
+______ (2 pts)  Initialization of pseudo-random number generator
+
+______ (2 pts)  Get the digital input
+
+______ (3 pts)  Random number generation
+
+______ (18 pts) The logic/algorithm to show a number with a 7-segment LED
+
+
+ Communication
+
+______ (2 pts)  Comments
+
+
+Comments
+________________________________________________________
+
+
