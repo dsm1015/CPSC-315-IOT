@@ -1,0 +1,33 @@
+CPSC 315 Homework 05 Grading
+
+Due Date: 11:00 AM on 3/27/2024
+
+Name: Douglas Maxwell      ______ / 28
+
+
+ Problem Solving and Critical Thinking
+
+______ (2 pts) No syntax error
+
+______ (2 pts) Inclusion of libraries for DHT11 and character LCD
+
+______ (4 pts) Initialization
+
+______ (3 pts) Get temperature and humidity values
+
+______ (3 pts) Conversion of temperature from Celsius to Fahrenheit degrees
+
+______ (6 pts) Creation of customized degree character
+
+______ (6 pts) Display of temperature and humidity on character LCD
+
+
+ Communication
+
+_______ (2 pts) Comments
+
+
+Comments
+________________________________________________________
+
+
